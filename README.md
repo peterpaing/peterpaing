@@ -1,29 +1,13 @@
-# Hi, I'm Pyae Sone Paing
+# Hi, I'm Pyae Sone Paing 👋
 
-I’m a Front-End Developer based in Yangon, Myanmar. I build responsive, user-focused web applications with React, Next.js, TypeScript, and Tailwind CSS.
+Full-Stack Developer based in Bangkok, Thailand.
 
-I enjoy turning designs into clean interfaces, reusable components, and smooth experiences across desktop and mobile devices. I’m open to remote junior front-end roles and freelance projects.
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Express · PostgreSQL · Drizzle ORM · Zod  
+**Tools & Services:** Git · GitHub Actions · Docker · Render · Neon · Clerk · Stripe · OpenAI API
 
-## What I Work With
+I built [StackWing](https://stackwingjobs.com) to bring developer jobs from multiple job boards into one place.
 
-**Front End**  
-React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS
+Open to remote junior full-stack roles and freelance projects.
 
-**Development**  
-Responsive Design · Accessibility · REST API Integration · Reusable Components · UI State Management · Local Storage
-
-**Tools**  
-Git · GitHub · Vercel
-
-
-
-## Currently Looking For
-
-- Remote junior front-end developer opportunities
-- React, Next.js, and TypeScript projects
-- Freelance work involving responsive websites and user interfaces
-
-## Connect With Me
-
-- [Portfolio](https://www.pyaesonepaing.com)
-- [LinkedIn](https://www.linkedin.com/in/pyae-sone-paing-06a283418/)
+[Portfolio](https://www.pyaesonepaing.com) · [LinkedIn](https://www.linkedin.com/in/pyae-sone-paing-06a283418/)
